@@ -32,7 +32,7 @@ gtp_perf: The score ratio or score/games for games under time pressure only.
 ```
 
 ## Setup
-* Download this repository at this [link](https://github.com/fsmosca/GameTimePressure/archive/refs/heads/main.zip)
+* Download this repository at this [link](https://github.com/fsmosca/GameTimePressure/archive/refs/heads/main.zip) and unzip it.
 * Install python 3
 * pip install pandas
 * pip install chess
