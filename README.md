@@ -67,6 +67,8 @@ time_pressure v1.0
 ```
 
 ## Credits
+* [Meltwater Champions Chess Tour](https://championschesstour.com/)
+* [chess24](https://chess24.com/en)
 * [chess.com](https://www.chess.com/)
 * [python-chess](https://github.com/niklasf/python-chess)
 
