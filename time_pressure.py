@@ -134,7 +134,7 @@ def get_time_left(game):
     return w_clk_sec, b_clk_sec
 
 
-def get_time_press_data(fn, tp_sec, last_m, player_names):
+def get_time_pressure_data(fn, tp_sec, last_m, player_names):
     """
     Get number of games where a player is in time pressure. A player is in
     time pressure when the average of the last n moves is tp_sec and below.
@@ -210,7 +210,7 @@ def main():
     player_names = get_player_names(input_pgn_fn)
 
     # Get time pressure data
-    time_pressure_data = get_time_press_data(input_pgn_fn, tp_sec, last_m, player_names)
+    time_pressure_data = get_time_pressure_data(input_pgn_fn, tp_sec, last_m, player_names)
 
     # Get player scores and num games.
     scores_data = get_player_score(input_pgn_fn)
