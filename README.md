@@ -31,6 +31,8 @@ gtp     : The number of games where a player is in time pressure.
 gtp_perf: The score ratio or score/games for games under time pressure only.
 ```
 
+See the [data for the other tours](https://github.com/fsmosca/GameTimePressure/wiki/Meltwater-Champions-Chess-Tour-Players-Time-Pressure-Data) in Meltwater.
+
 ## Setup
 * Download this repository at this [link](https://github.com/fsmosca/GameTimePressure/archive/refs/heads/main.zip) and unzip it.
 * Install python 3
